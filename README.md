@@ -15,7 +15,7 @@ This Web Application is developed with the help of Servlets + JSP + Java
 7. Our Project is loaded using Tomcat Server.
 8. Find the pom.xml in the folder.
 
-#We have written about 3800 lines of code in .jsp, .java files\
+#We have written about 3800 lines of code in .jsp, .java files
 
 #FEATURES
 1. We have Admin Login which allows company to register, after which they can add the policies.
